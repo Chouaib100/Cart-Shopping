@@ -3,6 +3,7 @@ body{
      margin: 0;
      font-family: Poppins;
  }
+
  .container{
      width: 900px;
      margin: auto;
@@ -11,6 +12,7 @@ body{
      padding-top: 10px;
      transition: transform .5s;
  }
+ 
  svg{
      width: 30px;
  }
